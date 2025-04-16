@@ -1,71 +1,90 @@
+# FashionHub 🛍️
 
-# Getting Started with Create React App
+This project was bootstrapped with **Create React App**.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
+## 🚀 Getting Started
 
 In the project directory, you can run:
 
 ### `npm start`
+Runs the app in development mode.
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-Runs the app in development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### `npx json-server --watch db.json --port 3001`
+Starts the fake backend using JSON Server on port 3001.
 
 ### `npm test`
-
-Launches the test runner in interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Launches the test runner in the interactive watch mode.
 
 ### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Builds the app for production to the `build` folder.
 
 ### `npm run eject`
+**Note: this is a one-way operation. Once you eject, you can't go back!**
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+---
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## 🖼️ Screenshots
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc.) right into your project so you have full control over them. All commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point, you're on your own.
+### 🏠 Home Page
+![Home](./Screenshots/Home.png)
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However, we understand that this tool wouldn't be useful if you couldn't customize it when you're ready for it.
+### 🛒 Cart - Step 1
+![Cart1](./Screenshots/Cart1.png)
+View the shopping cart and see added items.
 
-## Learn More
+### 🛍️ Added Item
+![Added Item](./Screenshots/Added%20item.png)
+An item has been successfully added to the cart.
+
+### 🛒 Cart - Step 2
+![Cart2](./Screenshots/Cart2.png)
+You can remove items or change the quantity from the cart.
+
+### 💳 Checkout
+![Checkout](./Screenshots/Checkout.png)
+Proceed to checkout to complete your order.
+
+### ✅ Confirm and Place Order
+![Confirm](./Screenshots/Confirm%20and%20Place%20Order.png)
+Final confirmation page before placing the order.
+
+### 📝 Register - Step 1
+![Register1](./Screenshots/Register1.png)
+User fills out the registration form.
+
+### 📝 Register - Step 2
+![Register2](./Screenshots/Register2.png)
+After successful registration, the user is automatically redirected to the login page.
+
+### 🔐 Login - Step 1
+![Login1](./Screenshots/Login1.png)
+User enters login credentials.
+
+### 🔐 Login - Step 2
+![Login2](./Screenshots/Login2.png)
+After login, the user is redirected to the Home page.
+
+### 📄 Product Details
+![Product Details](./Screenshots/Product%20details.png)
+Detailed view of the selected product.
+
+### 🔎 Search Box
+![Search Box](./Screenshots/Search%20box.png)
+Search for products using keywords.
+
+---
+
+## 📚 Learn More
 
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
+- [Code Splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+- [Analyzing the Bundle Size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+- [Making a Progressive Web App](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+- [Advanced Configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+- [Deployment](https://facebook.github.io/create-react-app/docs/deployment)
+- [Troubleshooting build](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)

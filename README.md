@@ -25,7 +25,7 @@ Starts the fake backend using JSON Server on port 3001.
 View the shopping cart and see added items.
 
 ### 🛍️ Added Item
-![Added Item](./Screenshots/Added%20item.png)
+![Added Item](./Screenshots/AddedItem.png)
 An item has been successfully added to the cart.
 
 ### 🛒 Cart - Step 2
@@ -61,7 +61,7 @@ After login, the user is redirected to the Home page.
 Detailed view of the selected product.
 
 ### 🔎 Search Box
-![Search Box](./Screenshots/Search%20box.png)
+![Search Box](./Screenshots/SearchBox.png)
 Search for products using keywords.
 
 ---

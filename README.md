@@ -37,7 +37,7 @@ You can remove items or change the quantity from the cart.
 Proceed to checkout to complete your order.
 
 ### ✅ Confirm and Place Order
-![Confirm](./Screenshots/Confirm%20and%20Place%20Order.png)
+![Confirm](./Screenshots/ConfirmAndPlaceOrder.png)
 Final confirmation page before placing the order.
 
 ### 📝 Register - Step 1
@@ -57,7 +57,7 @@ User enters login credentials.
 After login, the user is redirected to the Home page.
 
 ### 📄 Product Details
-![Product Details](./Screenshots/Product%20details.png)
+![Product Details](./Screenshots/Details.png)
 Detailed view of the selected product.
 
 ### 🔎 Search Box

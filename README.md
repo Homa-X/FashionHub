@@ -18,18 +18,18 @@ Starts the fake backend using JSON Server on port 3001.
 ## 🖼️ Screenshots
 
 ### 🏠 Home Page
-![Home](./Screenshots/1- Home.png)
+![Home](./Screenshots/Home.png)
 
 ### 🛒 Cart - Step 1
-![Cart1](./Screenshots/2- Cart1.png)
+![Cart1](./Screenshots/Cart1.png)
 View the shopping cart and see added items.
 
 ### 🛍️ Added Item
-![Added Item](./Screenshots/3- Added item.png)
+![Added Item](./Screenshots/Added%20item.png)
 An item has been successfully added to the cart.
 
 ### 🛒 Cart - Step 2
-![Cart2](./Screenshots/4- Cart2.png)
+![Cart2](./Screenshots/Cart2.png)
 You can remove items or change the quantity from the cart.
 
 ### 💳 Checkout

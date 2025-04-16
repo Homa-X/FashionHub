@@ -1,0 +1,288 @@
+{
+  "users": [
+    {
+      "id": "d36e",
+      "username": "BabaHassan",
+      "email": "homayoun3815@yahoo.com",
+      "password": "Khoda110"
+    },
+    {
+      "id": "4788",
+      "username": "MamanMasi",
+      "email": "blackend62@yahoo.com",
+      "password": "Balaghi"
+    },
+    {
+      "id": "7726",
+      "username": "Jensen",
+      "email": "jensen@yahoo.com",
+      "password": "112233"
+    }
+  ],
+  "orders": [
+    {
+      "id": "a7ea",
+      "items": [
+        {
+          "id": 1,
+          "name": "Slim Fit Suit",
+          "price": 199.99,
+          "imageUrl": "/images/product1.jpg",
+          "quantity": 1
+        },
+        {
+          "id": 2,
+          "name": "Straight Leg Jeans",
+          "price": 249.5,
+          "imageUrl": "/images/product2.jpg",
+          "quantity": 2
+        }
+      ],
+      "total": 698.99
+    },
+    {
+      "id": "adfd",
+      "items": [
+        {
+          "id": 2,
+          "name": "Straight Leg Jeans",
+          "price": 249.5,
+          "imageUrl": "/images/product2.jpg",
+          "quantity": 1
+        },
+        {
+          "id": 6,
+          "name": "Striped Cotton Shirt",
+          "price": 45.5,
+          "imageUrl": "/images/product6.jpg",
+          "quantity": 4
+        }
+      ],
+      "total": 431.5
+    },
+    {
+      "id": "d9d1",
+      "items": [
+        {
+          "id": 2,
+          "name": "Straight Leg Jeans",
+          "price": 249.5,
+          "imageUrl": "/images/product2.jpg",
+          "quantity": 1
+        }
+      ],
+      "total": 249.5
+    },
+    {
+      "id": "4c26",
+      "items": [
+        {
+          "id": 1,
+          "name": "Slim Fit Suit",
+          "price": 199.99,
+          "imageUrl": "/images/product1.jpg",
+          "quantity": 2
+        },
+        {
+          "id": 4,
+          "name": "Classic White T-Shirt",
+          "price": 25,
+          "imageUrl": "/images/product4.jpg",
+          "quantity": 1
+        }
+      ],
+      "total": 424.98
+    },
+    {
+      "id": "808b",
+      "items": [
+        {
+          "id": 3,
+          "name": "Casual Denim Jacket",
+          "price": 79.99,
+          "imageUrl": "/images/product3.jpg",
+          "quantity": 1
+        }
+      ],
+      "total": 79.99
+    },
+    {
+      "id": "d215",
+      "items": [
+        {
+          "id": 2,
+          "name": "Straight Leg Jeans",
+          "price": 249.5,
+          "imageUrl": "/images/product2.jpg",
+          "quantity": 1
+        },
+        {
+          "id": 6,
+          "name": "Striped Cotton Shirt",
+          "price": 45.5,
+          "imageUrl": "/images/product6.jpg",
+          "quantity": 1
+        }
+      ],
+      "total": 295
+    },
+    {
+      "id": "d0f4",
+      "items": [
+        {
+          "id": 1,
+          "name": "Slim Fit Suit",
+          "price": 199.99,
+          "imageUrl": "/images/product1.jpg",
+          "quantity": 3
+        }
+      ],
+      "total": 599.97
+    },
+    {
+      "id": "911a",
+      "items": [
+        {
+          "id": 1,
+          "name": "Slim Fit Suit",
+          "price": 199.99,
+          "imageUrl": "/images/product1.jpg",
+          "quantity": 1
+        }
+      ],
+      "total": 199.99
+    },
+    {
+      "id": "fb0d",
+      "items": [
+        {
+          "id": 2,
+          "name": "Straight Leg Jeans",
+          "price": 249.5,
+          "imageUrl": "/images/product2.jpg",
+          "quantity": 1
+        }
+      ],
+      "total": 249.5
+    },
+    {
+      "id": "8e0f",
+      "items": [
+        {
+          "id": 2,
+          "name": "Straight Leg Jeans",
+          "price": 249.5,
+          "imageUrl": "/images/product2.jpg",
+          "quantity": 1
+        }
+      ],
+      "total": 249.5
+    },
+    {
+      "id": "1dd8",
+      "items": [
+        {
+          "id": 3,
+          "name": "Casual Denim Jacket",
+          "price": 79.99,
+          "imageUrl": "/images/product3.jpg",
+          "quantity": 4
+        },
+        {
+          "id": 4,
+          "name": "Classic White T-Shirt",
+          "price": 25,
+          "imageUrl": "/images/product4.jpg",
+          "quantity": 1
+        },
+        {
+          "id": 6,
+          "name": "Striped Cotton Shirt",
+          "price": 45.5,
+          "imageUrl": "/images/product6.jpg",
+          "quantity": 4
+        }
+      ],
+      "total": 526.96
+    },
+    {
+      "id": "29f4",
+      "items": [
+        {
+          "id": 3,
+          "name": "Casual Denim Jacket",
+          "price": 79.99,
+          "imageUrl": "/images/product3.jpg",
+          "quantity": 1
+        },
+        {
+          "id": 5,
+          "name": "Leather Boots",
+          "price": 120,
+          "imageUrl": "/images/product5.jpg",
+          "quantity": 3
+        }
+      ],
+      "total": 439.99
+    },
+    {
+      "id": "4126",
+      "items": [
+        {
+          "id": 2,
+          "name": "Straight Leg Jeans",
+          "price": 249.5,
+          "imageUrl": "/images/product2.jpg",
+          "quantity": 1
+        }
+      ],
+      "total": 249.5
+    },
+    {
+      "id": "321e",
+      "items": [
+        {
+          "id": 2,
+          "name": "Straight Leg Jeans",
+          "price": 249.5,
+          "imageUrl": "/images/product2.jpg",
+          "quantity": 1
+        }
+      ],
+      "total": 249.5
+    },
+    {
+      "id": "d932",
+      "items": [
+        {
+          "id": 1,
+          "name": "Slim Fit Suit",
+          "price": 199.99,
+          "imageUrl": "/images/product1.jpg",
+          "quantity": 1
+        },
+        {
+          "id": 3,
+          "name": "Casual Denim Jacket",
+          "price": 79.99,
+          "imageUrl": "/images/product3.jpg",
+          "quantity": 3
+        }
+      ],
+      "total": 439.96
+    },
+    {
+      "id": "ef94",
+      "items": [
+        {
+          "id": 3,
+          "name": "Casual Denim Jacket",
+          "price": 79.99,
+          "imageUrl": "/images/product3.jpg",
+          "quantity": 3
+        }
+      ],
+      "total": 239.96999999999997
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+.registerContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 30px;
+  border: 1px solid #e2e8f0;
+  border-radius: 8px;
+  width: 100%;
+  max-width: 400px;
+  margin: 50px auto;
+  background-color: #ffffff;
+  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+}
+
+.registerContainer h2 {
+  margin-bottom: 25px;
+  font-size: 1.8em;
+  font-weight: 700;
+  color: #1a202c;
+}
+
+.formGroup {
+  margin-bottom: 20px;
+  width: 100%;
+}
+
+.formGroup label {
+  display: block;
+  margin-bottom: 8px;
+  font-weight: 600;
+  color: #4a5568;
+  font-size: 0.95em;
+}
+
+.inputField {
+  width: 100%;
+  padding: 12px;
+  border: 1px solid #cbd5e0;
+  border-radius: 5px;
+  box-sizing: border-box;
+  font-size: 1em;
+  font-family: 'Poppins', sans-serif;
+  transition: border-color 0.2s ease, box-shadow 0.2s ease;
+}
+
+.inputField:focus {
+  outline: none;
+  border-color: #38a169;
+  box-shadow: 0 0 0 3px rgba(72, 187, 120, 0.5);
+}
+
+.registerButton {
+  background-color: #38a169;
+  color: white;
+  border: none;
+  padding: 12px 15px;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 1.1em;
+  font-weight: 600;
+  font-family: 'Poppins', sans-serif;
+  width: 100%;
+  transition: background-color 0.3s ease;
+  margin-top: 10px;
+}
+
+.registerButton:hover {
+  background-color: #2f855a;
+}
+
+@media (max-width: 480px) {
+  .registerContainer {
+    padding: 20px;
+    margin: 30px 15px;
+    max-width: none;
+    box-shadow: none;
+    border: none;
+    background-color: transparent;
+  }
+
+  .registerContainer h2 {
+    font-size: 1.6em;
+  }
+}

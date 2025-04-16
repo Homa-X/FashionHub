@@ -1,13 +1,4 @@
-## 🖼 Screenshots
 
-### 🏠 Home Page
-![Home Page](./screenshots/homepage.png)
-
-### 🔐 Login Page
-![Login Page](./screenshots/login.png)
-
-### 🛒 Checkout Page
-![Checkout](./screenshots/checkout.png)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

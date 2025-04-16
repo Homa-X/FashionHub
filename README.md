@@ -1,5 +1,4 @@
 ## 🖼 Screenshots
-![Screenshot 2025-04-16 at 14 40 43](https://github.com/user-attachments/assets/e2caf934-30bf-4a46-bcc6-6fe44a15b9d2)
 
 ### 🏠 Home Page
 ![Home Page](./screenshots/homepage.png)

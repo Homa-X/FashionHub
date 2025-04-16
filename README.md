@@ -1,7 +1,5 @@
 # FashionHub 🛍️
 
-This project was bootstrapped with **Create React App**.
-
 ## 🚀 Getting Started
 
 In the project directory, you can run:
